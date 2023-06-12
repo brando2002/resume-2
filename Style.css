@@ -1,0 +1,67 @@
+body {
+    background-color: #a19782;
+    font-family: Arial Bold, Arial; /* Change the font family to your desired font */
+
+}
+h1, h2, ul, h3{
+    color: white;
+}
+
+.Paragraph1 p,h1, h2, .Piano{
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Piano img{
+    max-height: 500px;
+}
+
+p{
+    color: whitesmoke;
+}
+
+button{
+    color: red;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+
+.nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.nav a {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+
+
+.skillz ul{
+    text-align: left;
+    padding-left: 37%;
+    background-color: #a19782;
+}
+
+.skillz{
+display: block;
+
+}
